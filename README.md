@@ -1,5 +1,5 @@
 # HiltonAPI
-Hotel and Reservation API's for Hilton Registration Demo
+Hotel and Reservation API's for Hilton Reservation Demo
 
 API's were developed using Express and GraphQL.  There are two APIs to demonstrate that the APIS are set up as microservices. 
 
